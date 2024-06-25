@@ -1,0 +1,16 @@
+{
+    "description": "Little school project for event handling",
+
+    "domain": "is-not-a.dev",
+    "subdomain": "jvgbet",
+
+    "owner": {
+        "email": "gamekonts@gmail.com"
+    },
+
+    "record": {
+        "A": ["195.201.160.55"],
+    },
+
+    "proxied": false
+}
